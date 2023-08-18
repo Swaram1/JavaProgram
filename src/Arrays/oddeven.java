@@ -8,7 +8,6 @@ public class oddeven {
 		System.out.println("elements at odd position");
 		for(int i=0;i<u.length;i=i+2) {
 			System.out.println(u[i]);
-			
 		}
 		System.out.println("elements at even position");
 		for(int i=1;i<u.length;i=i+2) {
