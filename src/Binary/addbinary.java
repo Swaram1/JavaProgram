@@ -12,7 +12,7 @@ public class addbinary {
 		
 public static void main(String args[])
 {
-    String x = "011011", y = "1010111";
+    String x = "10", y = "11";
 
     System.out.print(addBinary(x, y));
 }
